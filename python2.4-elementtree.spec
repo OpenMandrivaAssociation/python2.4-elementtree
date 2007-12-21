@@ -17,6 +17,7 @@ Requires:       expat
 Requires:       python >= 2.2
 BuildRequires:	python2.4-devel
 BuildArch:	noarch
+BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
 The Element type is a simple but flexible container object, designed
