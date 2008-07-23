@@ -2,7 +2,7 @@
 %define name		python2.4-%{module}
 %define version		1.2.6
 %define date_version	20050316
-%define release		%mkrel 1
+%define release		%mkrel 3
 %define __python    %{_bindir}/python2.4
 
 Name: 		%{name}
